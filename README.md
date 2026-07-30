@@ -1,6 +1,6 @@
 # 🇩🇪 Deutsch für Elektrotechniker
 
-> An open-source, Obsidian-based knowledge base of AI-generated C1+ German dialogues for engineers, researchers, and technology professionals.
+> An open-source, Obsidian-based knowledge base of AI-generated C1+ German dialogues for engineers, researchers, and technology professionals, carefully reviewed, refined, and organized by Mohsen Salehi.
 
 ![GitHub](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Language](https://img.shields.io/badge/Language-German-red)
@@ -17,7 +17,8 @@ Unlike traditional language textbooks, this repository focuses on authentic conv
 
 The project is maintained as an **Obsidian knowledge base**, allowing easy navigation through linked concepts, technical vocabulary, and engineering topics.
 
-Every dialogue is **AI-generated**, carefully reviewed, and written to resemble natural German used by native engineers in professional settings.
+
+Every dialogue is initially generated with AI and is subsequently reviewed, refined, and organized by Mohsen Salehi into a structured Obsidian knowledge base. The goal is to provide natural, professional German that reflects authentic communication in engineering, research, and industrial environments.
 
 ---
 
