@@ -1,0 +1,1 @@
+**Deutsch für Elektrotechniker** is an open-source, Obsidian-based knowledge base of AI-generated C1+ German dialogues designed for electrical engineers, AI researchers, embedded developers, and communication engineers preparing to work or study in German-speaking environments.
